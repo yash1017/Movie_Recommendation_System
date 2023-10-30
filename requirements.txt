@@ -120,7 +120,7 @@ seaborn
 Send2Trash
 simplejson
 six
-sklearn
+scikit-learn
 sniffio
 soupsieve
 stack-data
