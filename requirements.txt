@@ -113,7 +113,6 @@ requests
 requests-oauthlib
 rfc3339-validator
 rfc3986-validator
-rpds-py
 rsa
 scikit-learn
 scipy
