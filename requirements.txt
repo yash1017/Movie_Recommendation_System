@@ -128,8 +128,6 @@ stack-data
 tensorboard
 tensorboard-data-server
 tensorflow
-tensorflow-estimator
-tensorflow-io-gcs-filesystem
 termcolor
 terminado
 threadpoolctl
